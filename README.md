@@ -1,1 +1,1 @@
-![](../master/P1/docs/webp2.png)
+![](https://github.com/rajv11/P2/blob/master/docs/webp2.PNG)
