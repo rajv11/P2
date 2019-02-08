@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Display";
+}
+
+<div class="text-center">
+    <h1 class="display-4">BMI Application</h1>
+</div>
+<div class="text-center">
+    <form>
+        <div class="form-group">
+            <label for="weight">Weight in lb</label>
+            <input type="number" class="form-control" id="weight" aria-describedby="emailHelp" placeholder="Weight">
+            
+        </div>
+        <div class="form-group">
+            <label for="heightFt">Height</label>
+            <input type="number" class="form-control" id="heightFt" placeholder="Height (feet)">
+        </div>
+        <button type="button" class="btn btn-primary" onclick="bmi()">Submit</button>
+    </form>
+</div>
